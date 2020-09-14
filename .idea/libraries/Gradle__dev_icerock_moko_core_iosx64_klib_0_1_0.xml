@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.icerock.moko:core-iosx64:klib:0.1.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/core-iosx64/0.1.0/1d10e128021ef7b207dfbefd2b2c9f146634f46c/core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/core-iosx64/0.1.0/d4b983bd44addff6398edf198769dfa8b340d053/core-iosx64-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

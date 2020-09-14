@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GithubKmp.iml" filepath="$PROJECT_DIR$/.idea/GithubKmp.iml" group="GithubKmp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode.iml" group="GithubKmp/SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_commonMain.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_commonTest.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_iosMain.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_iosTest.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jsMain.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jsTest.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jvmMain.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SharedCode/SharedCode_jvmTest.iml" group="SharedCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GithubKmp/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sqldelight:runtime-js:1.2.0" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-js/1.2.0/7c14a040fab1c78e1ab6b3aa5e8cc70553be1d37/sqldelight-runtime-js-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-js/1.2.0/889df0e4a94ed80ceab5b64a153a87ba6513f05a/runtime-js-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

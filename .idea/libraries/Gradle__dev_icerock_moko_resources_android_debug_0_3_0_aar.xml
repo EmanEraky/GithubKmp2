@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.icerock.moko:resources-android-debug:0.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcc9ed9859ca97fb6eeb1231a3c4f1d6/resources-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcc9ed9859ca97fb6eeb1231a3c4f1d6/resources-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcc9ed9859ca97fb6eeb1231a3c4f1d6/resources-debug/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/resources-android-debug/0.3.0/ca490480c75d757db4eb618b15294834b894ce06/resources-android-debug-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

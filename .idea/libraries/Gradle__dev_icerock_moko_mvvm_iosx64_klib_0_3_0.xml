@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.icerock.moko:mvvm-iosx64:klib:0.3.0" type="kotlin.native">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/mvvm-iosx64/0.3.0/9a79fd26d747e34b707475afbcab89dd1abca253/mvvm.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/mvvm-iosx64/0.3.0/8c3e98ab57b3d0fabf261f3229c5ebf7f91637ab/mvvm-iosx64-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
