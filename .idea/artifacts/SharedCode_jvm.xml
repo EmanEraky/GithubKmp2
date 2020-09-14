@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SharedCode-jvm">
+    <output-path>D:\eman\taskMVIKmp\downloadKmpMvi\KotlinMultiPlatform\GithubKmp\SharedCode\build\libs</output-path>
+    <root id="archive" name="SharedCode-jvm.jar" />
+  </artifact>
+</component>
